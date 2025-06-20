@@ -6,7 +6,7 @@ A modern fitness web application built using React. It allows users to search ex
 
 ## 🚀 Live Demo
 
-[Click here to view live](https://your-deployment-link.com)
+[Click here to view live](https://project-fitness-app-evey.vercel.app)
 
 ---
 
